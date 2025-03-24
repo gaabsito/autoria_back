@@ -2613,11 +2613,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/gabsitoo/Desktop/RETO-backyfront/RETO_GYM_BACK/GymAPI/GymAPI.csproj",
+      "projectUniqueName": "/Users/gabsitoo/Documents/GitHub/autoria_back/GymAPI/GymAPI.csproj",
       "projectName": "GymAPI",
-      "projectPath": "/Users/gabsitoo/Desktop/RETO-backyfront/RETO_GYM_BACK/GymAPI/GymAPI.csproj",
+      "projectPath": "/Users/gabsitoo/Documents/GitHub/autoria_back/GymAPI/GymAPI.csproj",
       "packagesPath": "/Users/gabsitoo/.nuget/packages/",
-      "outputPath": "/Users/gabsitoo/Desktop/RETO-backyfront/RETO_GYM_BACK/GymAPI/obj/",
+      "outputPath": "/Users/gabsitoo/Documents/GitHub/autoria_back/GymAPI/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/gabsitoo/.nuget/NuGet/NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tIP/GLf2Mts=",
+  "dgSpecHash": "nGBPFCZFCnA=",
   "success": true,
-  "projectFilePath": "/Users/gabsitoo/Desktop/RETO-backyfront/RETO_GYM_BACK/GymAPI/GymAPI.csproj",
+  "projectFilePath": "/Users/gabsitoo/Documents/GitHub/autoria_back/GymAPI/GymAPI.csproj",
   "expectedPackageFiles": [
     "/Users/gabsitoo/.nuget/packages/azure.core/1.38.0/azure.core.1.38.0.nupkg.sha512",
     "/Users/gabsitoo/.nuget/packages/azure.identity/1.11.4/azure.identity.1.11.4.nupkg.sha512",
